@@ -85,8 +85,6 @@ All figure scripts are in [figures/](https://github.com/dcyd/eq-impact-pipeline-
 - run('figures/figure_4.m')
 - run('figures/figure_5.m')
 
-Figures will write outputs to [figures/results/](https://github.com/dcyd/eq-impact-pipeline-with-calibration/tree/main/figures/results).
-
 ---
 
 ## Contact
