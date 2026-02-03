@@ -50,8 +50,6 @@ Other related code and/or resources can be provided upon request. Contact: **cho
 
 - MATLAB (tested with R2025a)
 
-(If specific MATLAB toolboxes are required for certain modules, list them here — I can scan the repo and add exact toolbox requirements if you want.)
-
 ---
 
 ## Quickstart
