@@ -28,7 +28,6 @@ Credible earthquake-impact estimation is essential for seismic risk reduction bu
   - [figures/figure_3.m](https://github.com/dcyd/eq-impact-pipeline-with-calibration/blob/main/figures/figure_3.m)
   - [figures/figure_4.m](https://github.com/dcyd/eq-impact-pipeline-with-calibration/blob/main/figures/figure_4.m)
   - [figures/figure_5.m](https://github.com/dcyd/eq-impact-pipeline-with-calibration/blob/main/figures/figure_5.m)
-  - Output folder: [figures/results/](https://github.com/dcyd/eq-impact-pipeline-with-calibration/tree/main/figures/results)
 
 Other related code and/or resources can be provided upon request. Contact: **chongyang_du@hust.edu.cn**
 
